@@ -38,4 +38,4 @@ Here are some previews of the  hand:
 See the [LICENSE](./LICENSE) file for full details.
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ghada Malak GUERGOUR .
